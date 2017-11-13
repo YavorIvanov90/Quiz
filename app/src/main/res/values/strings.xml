@@ -1,0 +1,73 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Bulgarian Quiz</string>
+
+
+    <string name="quiz">Bulgarian Quiz</string>
+    <string name="maxPoints">Max points <xliff:g id="maxpoints">10</xliff:g></string>
+
+
+    <string name="questionOne">"In which continent is Bulgaria?</string>
+    <string name="questionOneAnswerOne">Europe</string>
+    <string name="questionOneAnswerTwo">North America</string>
+    <string name="questionOneAnswerThree">Asia</string>
+    <string name="questionOneAnswerFour">Afrika</string>
+
+    <string name="questionTwo">In which year is the establishment of Bulgaria?</string>
+    <string name="questionTwoAnswerOne">1036</string>
+    <string name="questionTwoAnswerTwo">1878</string>
+    <string name="questionTwoAnswerThree">681</string>
+    <string name="questionTwoAnswerFour">1396</string>
+
+
+    <string name="questionThree">How many people live in Bulgaria?</string>
+    <string name="questionThreeAnswerOne">50 000</string>
+    <string name="questionThreeAnswerTwo">25 mil.</string>
+    <string name="questionThreeAnswerThree">2 mil.</string>
+    <string name="questionThreeAnswerFour">7 mil.</string>
+
+    <string name="questionFour">Which city is the capital of Bulgaria?</string>
+    <string name="questionFourAnswerOne">Varna</string>
+    <string name="questionFourAnswerTwo">Sofia</string>
+    <string name="questionFourAnswerThree">Plovdiv</string>
+    <string name="questionFourAnswerFour">Burgas</string>
+
+
+    <string name="questionFive">Which year did Bulgaria join the EU</string>
+    <string name="questionFiveAnswerOne">2007</string>
+    <string name="questionFiveAnswerTwo">2014</string>
+    <string name="questionFiveAnswerThree">1991</string>
+    <string name="questionFiveAnswerFour">1997</string>
+
+    <string name="questionSix">Which countries border Bulgaria?</string>
+    <string name="questionSixAnswerOne">Romania</string>
+    <string name="questionSixAnswerTwo">Greece</string>
+    <string name="questionSixAnswerThree">Spain</string>
+    <string name="questionSixAnswerFour">Serbia</string>
+
+    <string name="questionSeven">Name one former president of Bulgaria:</string>
+    <string name="questionSevenAnswerOne">Zhelyu Zhelev</string>
+    <string name="questionSevenAnswerTwo">Petar Stoyanov</string>
+    <string name="questionSevenAnswerThree">Georgi Parvanov</string>
+    <string name="questionSevenAnswerFour">Rosen Plevneliev</string>
+    <string name="questionSevenAnswerFive">Rumen Radev</string>
+
+    <string name="exit">Exit</string>
+    <string name="submit">Submit</string>
+    <string name="madeby">Made by <xliff:g id="madeby">Yavor Ivanov</xliff:g></string>
+
+    <string name="questionEight">Which one is the Bulgarian flag?</string>
+
+
+    <!--strings used in MainActivity.java-->
+    <string name="yourPoints">Your points are:  <xliff:g example="2" id="yourpoints">%d</xliff:g></string>
+
+    <string name="radioOneError">Please enter answer on question one.</string>
+    <string name="radioTwoError">Please enter answer on question two.</string>
+    <string name="radioThreeError">Please enter answer on question three.</string>
+    <string name="radioFourError">Please enter answer on question four.</string>
+    <string name="radioFiveError">Please enter answer on question five.</string>
+    <string name="radioSixError">Please enter answer on question six.</string>
+    <string name="radioSevenError">Please enter answer on question seven.</string>
+    <string name="radioEightError">Please enter answer on question eight.</string>
+
+</resources>

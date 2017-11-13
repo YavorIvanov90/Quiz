@@ -18,4 +18,3 @@ German flag <a href="http://www.i2clipart.com/cliparts/4/2/2/0/clipart-flag-of-g
   <td><img src="https://github.com/YavorIvanov90/Quiz/blob/master/screenshots/Screenshot_20171113-142720.png"</td>
 </tr>
 </table>
-<h3>ScreenShots</h3>
